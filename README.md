@@ -410,6 +410,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
 - **[godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server)** - MCP server to provide golang packages and their information from pkg.go.dev
+- **[GLM MCP for Claude Code](https://github.com/djerok/glm_mcp_claude)** - Run GLM (Zhipu/Z.ai) as a real sub-agent inside the Claude Code app on a subscription Claude; GLM gets its own agent loop (Read/Write/Edit/Bash/Glob) with automatic Opus-vs-GLM routing and diff/dry-run/git-revert oversight. ~10x cheaper than Opus.
 - **[Godot MCP](https://github.com/Coding-Solo/godot-mcp)** - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - **[Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server)** - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
 - **[Google Admin MCP](https://github.com/securityfortech/google-admin-mcp)** – A Model Context Protocol (MCP) server enabling interaction with Google Admin APIs.
